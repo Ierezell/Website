@@ -1,0 +1,17 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2021"
+# authors = ["Lily Horclois", "Pierre Snell"]
+description = "A backend for personal webiste."
+documentation = "https://github.com/ierezell/Website/README.md"
+readme = "README.md"
+homepage = "https://github.com/ierezell/Website/"
+repository = "https://github.com/ierezell/Website/"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.10"
+rocket_contrib = "0.4.10"
