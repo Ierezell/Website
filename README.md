@@ -16,3 +16,12 @@ npm run dev
 cd backend
 cargo run
 ```
+
+# For the development build : 
+```sh
+cd frontend 
+npm run build
+cd ..
+cd backend
+cargo run
+```
